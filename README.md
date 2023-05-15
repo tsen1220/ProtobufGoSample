@@ -95,5 +95,5 @@ Then we can test with `client.go`. Connected with gRPC server
 We will get response
 
 ```
-206
+2023/05/15 18:38:30 206
 ```

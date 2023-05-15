@@ -24,5 +24,5 @@ func main() {
 		B: 105,
 	})
 
-	log.Println(response)
+	log.Println(response.Result)
 }
